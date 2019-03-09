@@ -40,4 +40,4 @@ _Basic Dependencies_
 
 * [Spring Boot Setup](https://github.com/VinayagamD/SpringBootBasics)
 * [Spring JDBC JPA](https://github.com/VinayagamD/SpringBootJDBCAndJPA)
-* [JPA Hibernate In Depth](JPA-Hibernate-InDepth)
+* [JPA Hibernate In Depth](https://github.com/VinayagamD/JPA-Hibernate-InDepth)
