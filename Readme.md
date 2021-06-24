@@ -28,7 +28,7 @@ _Basic Dependencies_
 
 **Below Are The List Of Spring MVC Basic Steps**
 
-* [Into To Spring MVC](https://github.com/VinayagamD/springtest)
+* [Intro To Spring MVC](https://github.com/VinayagamD/springtest)
 * [Spring MVC Setup](https://github.com/VinayagamD/springmvcdemo)
 * [About Hibernate](https://github.com/VinayagamD/hibernatetut)
 * [Hibernate One To One Mapping](https://github.com/VinayagamD/hibernateonetoonemapping)
